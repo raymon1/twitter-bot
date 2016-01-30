@@ -6,5 +6,8 @@ you can change the words it replies for and replies easily
 account link: https://twitter.com/hugger80424472
 
 credits: 
+
 http://www.mattmorgante.com/technology/505
+
+
 http://readwrite.com/2014/06/20/random-non-sequitur-twitter-bot-instructions
